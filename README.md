@@ -2,7 +2,8 @@
 
 The purpose of replicating existing projects is to learn their designs and implementations. 
 
-> What I cannot create I do not understand
+> _**What I cannot create I do not understand**_
+> 
 > by Richard P. Feynman
 
 - *Intel SGX Explained* by Victor Costan and Srinivas Devadas
